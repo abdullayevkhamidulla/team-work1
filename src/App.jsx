@@ -11,6 +11,7 @@ function App() {
       <h1>Hello team work</h1>
       <h2>hello world</h2>
       <h3>hello third commit</h3>
+      <h3>azizbek is commited</h3>
     </>
   );
 }
